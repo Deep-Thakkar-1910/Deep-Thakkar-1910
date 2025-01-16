@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Advanced Backend<br>🌱 I’m currently learning DSA and Go
+🔭 I’m currently working on Advanced Backend<br>🌱 I’m currently learning DSA and Java
 
 
 ## 🌐 Socials:
